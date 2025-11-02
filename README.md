@@ -1,12 +1,5 @@
 # Decentralized URL Shortener
 
-## Table of Contents
-- [Project Title]
-- [Project Description]
-- [Project Vision]
-- [Key Features]
----
-
 ## Project Title
 
 **Decentralized URL Shortener on Stellar Blockchain**
@@ -150,6 +143,7 @@ Stellar's extremely low transaction fees (fractions of a cent) make it economica
 - Mobile-responsive design
 
 
-CONTRACT DETAILS 
+CONTRACT DETAILS -
+
 CONTRACT ID - CBJMENIQ3F75MZ6FUUMAEY6MF27BVJAZJ7FMO2IVY6GHT5D53WAOEGP3
 ![alt text](image.png)
